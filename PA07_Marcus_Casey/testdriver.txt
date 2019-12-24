@@ -1,0 +1,108 @@
+Script started on Wed 23 Nov 2016 08:05:45 PM PST
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;marcuscasey@ubuntu: ~/Desktop/CS202/Projects/Project7[01;32mmarcuscasey@ubuntu[00m:[01;34m~/Desktop/CS202/Projects/Project7[00m$ make
+make: Nothing to be done for 'all'.
+]0;marcuscasey@ubuntu: ~/Desktop/CS202/Projects/Project7[01;32mmarcuscasey@ubuntu[00m:[01;34m~/Desktop/CS202/Projects/Project7[00m$ ./[pr[K[K[Kproj6[K7
+Sample Polynomial File Name: datapoly
+1. x^6
+2. 4x^3 - 1x^2 + 1x
+3. 20x^3 - 2x + 1
+4. 3x^4 + 2x^2 - 5
+5. 20x^3 - 2x + 1
+6. 7x^6 - 6x^5 - 59x^4 + 4x^3 + 3x^2 + 42x + 1
+--------------------------------------------------------------------
+#1 Solve each polynomial with a inputNum
+#2 Check if two polynomials are equal
+#3 Set one polynomial equal to another
+#4 Multiply a polynomial by a scalar inputNum
+#5 Multiply a polynomial by another polynomial
+#6 Print all polynomials to screen
+#7 Find the total of two polynomials
+#8 Find the difference of two polynomials
+#0 Exit
+Input number to select option 1
+Number to solve with: 5
+Solving for x=5:
+	x^6 when x=5Solved: 15625
+	4x^3 - 1x^2 + 1x when x=5Solved: 480
+	20x^3 - 2x + 1 when x=5Solved: 2491
+	3x^4 + 2x^2 - 5 when x=5Solved: 1920
+	20x^3 - 2x + 1 when x=5Solved: 2491
+	7x^6 - 6x^5 - 59x^4 + 4x^3 + 3x^2 + 42x + 1 when x=5Solved: 54536
+--------------------------------------------------------------------
+#1 Solve each polynomial with a inputNum
+#2 Check if two polynomials are equal
+#3 Set one polynomial equal to another
+#4 Multiply a polynomial by a scalar inputNum
+#5 Multiply a polynomial by another polynomial
+#6 Print all polynomials to screen
+#7 Find the total of two polynomials
+#8 Find the difference of two polynomials
+#0 Exit
+Input number to select option 2
+1. x^6
+2. 4x^3 - 1x^2 + 1x
+3. 20x^3 - 2x + 1
+4. 3x^4 + 2x^2 - 5
+5. 20x^3 - 2x + 1
+6. 7x^6 - 6x^5 - 59x^4 + 4x^3 + 3x^2 + 42x + 1
+Which polyinomal would you like to compare? (#): 1
+Which polyinomal would you like to compare to? (#): 5
+Is x^6 = 20x^3 - 2x + 1 ?
+Answer: False
+--------------------------------------------------------------------
+#1 Solve each polynomial with a inputNum
+#2 Check if two polynomials are equal
+#3 Set one polynomial equal to another
+#4 Multiply a polynomial by a scalar inputNum
+#5 Multiply a polynomial by another polynomial
+#6 Print all polynomials to screen
+#7 Find the total of two polynomials
+#8 Find the difference of two polynomials
+#0 Exit
+Input number to select option 3
+1. x^6
+2. 4x^3 - 1x^2 + 1x
+3. 20x^3 - 2x + 1
+4. 3x^4 + 2x^2 - 5
+5. 20x^3 - 2x + 1
+6. 7x^6 - 6x^5 - 59x^4 + 4x^3 + 3x^2 + 42x + 1
+Whcih polynomial would you like to change (#): 2
+Enter the polynomial you'd like to set to equal (#): 5
+Assigning 4x^3 - 1x^2 + 1x equal -> 20x^3 - 2x + 1
+The polynomial was set to equal 20x^3 - 2x + 1
+--------------------------------------------------------------------
+#1 Solve each polynomial with a inputNum
+#2 Check if two polynomials are equal
+#3 Set one polynomial equal to another
+#4 Multiply a polynomial by a scalar inputNum
+#5 Multiply a polynomial by another polynomial
+#6 Print all polynomials to screen
+#7 Find the total of two polynomials
+#8 Find the difference of two polynomials
+#0 Exit
+Input number to select option 4
+Which number would you like to multiply by? : 3
+1. x^6
+2. 20x^3 - 2x + 1
+3. 20x^3 - 2x + 1
+4. 3x^4 + 2x^2 - 5
+5. 20x^3 - 2x + 1
+6. 7x^6 - 6x^5 - 59x^4 + 4x^3 + 3x^2 + 42x + 1
+Enter the number of the polynomial you wish to change: 1
+x^6 * 3 = 3x^6
+--------------------------------------------------------------------
+#1 Solve each polynomial with a inputNum
+#2 Check if two polynomials are equal
+#3 Set one polynomial equal to another
+#4 Multiply a polynomial by a scalar inputNum
+#5 Multiply a polynomial by another polynomial
+#6 Print all polynomials to screen
+#7 Find the total of two polynomials
+#8 Find the difference of two polynomials
+#0 Exit
+Input number to select option 5
+1. x^6
+2. 20x^3 
